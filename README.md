@@ -17,7 +17,7 @@ The risk assessment was conducted using **ISO 31000** and **MAGERIT** methodolog
     2. **Data Leakage:** (Impact: 5/5) - Mitigated via DLP & Encryption.
 
 ## 📂 Project Deliverables
-* **[Security_Master_Plan.pdf](./CASO PRÁCTICO Compliance.pdf):** Full strategic document.
+* **[Security_Master_Plan.pdf](./Compliance.pdf):** Full strategic document.
 * **Risk Heatmap:** Visual representation of the corporate risk appetite.
 * **Compliance Gap Analysis:** Comparative study of current state vs. ISO 27001 Annex A controls.
 
